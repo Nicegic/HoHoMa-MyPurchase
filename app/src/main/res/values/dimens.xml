@@ -5,4 +5,8 @@
     <dimen name="nav_header_vertical_spacing">16dp</dimen>
     <dimen name="nav_header_height">160dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+
+    <!-- more dimensions for better scrolling. -->
+    <dimen name="list_entry">50dp</dimen>
+    <dimen name="headerTextSize">24sp</dimen>
 </resources>
